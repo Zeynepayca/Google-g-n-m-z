@@ -1,2 +1,2 @@
-# Google-g-n-m-z
+# Google günümüz
 patika.dev google ödevi
